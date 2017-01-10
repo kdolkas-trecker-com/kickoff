@@ -3,7 +3,6 @@ User Story Description
 
 Story #1 
 As an Accountant I want to add two numbers so that I can see what the total is
-
 Acceptance Criteria 
 Given I have two numbers 2 and 3 When I add them Then I should see the sum as 5 
 
