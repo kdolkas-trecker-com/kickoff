@@ -11,12 +11,12 @@ As an Accountant I want to subtract two numbers so that I can see what the diffe
 Acceptance Criteria 
 Given I have two numbers 2 and 3 When I subtract them Then I should see the difference as -1 
 
- Story #3 
- As an Accountant I want to divide two numbers so that I can know the quotient
- Acceptance Criteria 
- Given I have two numbers 100 and 20 When I divide them Then I should see the quotient as 5
+Story #3 
+As an Accountant I want to divide two numbers so that I can know the quotient
+Acceptance Criteria 
+Given I have two numbers 100 and 20 When I divide them Then I should see the quotient as 5
 
- Story #4 
- As an Accountant I want to multiply two numbers so that I can see what their product is
- Acceptance Criteria 
- Given I have two numbers 2 and 3 When I multiply them Then I should see the product as 6 
+Story #4 
+As an Accountant I want to multiply two numbers so that I can see what their product is
+Acceptance Criteria 
+Given I have two numbers 2 and 3 When I multiply them Then I should see the product as 6 
