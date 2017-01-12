@@ -1,6 +1,5 @@
 User Story Description
 
-
 Story #1 
 As an Accountant I want to add two numbers so that I can see what the total is
 Acceptance Criteria 
